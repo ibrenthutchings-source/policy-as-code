@@ -27,6 +27,7 @@ Applies to every internal policy in `policies/` and every framework catalog in `
 | AI impact assessment | — | A.5.2, A.5.3, A.5.4, A.5.5 | Art. 26(10) | [AI Governance §3.3](../AI/ai-governance-policy.md) |
 | AI data governance | A.5.34 (PII) | A.7.2, A.7.3, A.7.4, A.7.5, A.7.6 | Art. 10 | [Asset Management §3.2](../security/asset-management.md) (classification only — dataset-specific quality/provenance controls remain a **Gap**) |
 | Human oversight & responsible use | — | A.9.2, A.9.3, A.9.4 | Art. 14, Art. 26(2) | [AI Governance §3.4](../AI/ai-governance-policy.md) |
+| AI context provenance & chain-of-context monitoring | A.8.15, A.8.16 | A.6.2.4, A.6.2.8 | Art. 12, Art. 14 | [Chain of Context Monitoring](../AI/chain-of-context-monitoring.md), enforced by [`rego/chain_of_context_monitoring.rego`](../AI/rego/chain_of_context_monitoring.rego) |
 | Transparency & disclosure | — | A.8.2, A.8.5 | Art. 13, Art. 50 | [AI Governance §3.5](../AI/ai-governance-policy.md) |
 | GPAI / third-party AI models | — | A.10.3 | Art. 53, Art. 55 | [AI Governance §3.6](../AI/ai-governance-policy.md), [Vendor Management §3.1](../security/vendor-management.md) |
 | Logging, monitoring, and vulnerability management | A.8.8, A.8.15, A.8.16 | A.6.2.8 | Art. 12 | *Not documented — remains a Gap in all three catalogs* |
