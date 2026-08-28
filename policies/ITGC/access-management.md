@@ -2,7 +2,8 @@
 
 | Document ID | Version | Effective Date | Review Cycle | Policy Owner |
 | :--- | :--- | :--- | :--- | :--- |
-| POL-IT-002 | v1.0.0 | July 7, 2026 | Annual | Director of IT Operations |
+| POL-IT-002 | v1.1.0 | August 18, 2026 | Annual | Director of IT Operations |
+
 
 ## 1. Purpose
 To ensure that access to corporate networks, systems, and data is restricted to authorized users based on the principles of Least Privilege and Need-to-Know.
@@ -40,3 +41,4 @@ Applies to all employees, contractors, third-party vendors, and service accounts
 | :--- | :--- | :--- | :--- |
 | Sarah Jenkins | Director of IT Operations | Approved via PR #14 | July 3, 2026 |
 | Marcus Vance | Chief Information Security Officer | Approved via PR #14 | July 5, 2026 |
+|Johann S. Bach | Director of Orchestration | Approved manually | August 28, 2026 |
